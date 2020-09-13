@@ -1,0 +1,6 @@
+#Create a remainder function
+
+def remainder(x, y):
+			return x % y
+			
+print(remainder(6,10))

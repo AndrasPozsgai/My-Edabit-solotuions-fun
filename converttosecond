@@ -1,0 +1,7 @@
+#Write a function that takes an integer minutes and converts it to seconds.
+
+second = 60
+def convert(minutes):
+	return (minutes * second)
+print(convert(3))
+	
